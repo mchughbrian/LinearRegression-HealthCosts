@@ -1,6 +1,4 @@
 # LinearRegression-HealthCosts
-Please view code in nbviewer ()
-
 # Purpose:
 Project for implementing linear regression to predict medical costs. Additionally, to become more familiar with linear regression and interpreting the model. 
 
